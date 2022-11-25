@@ -1,0 +1,15 @@
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\Zadacha_2_1.csproj.AssemblyReference.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\Zadacha_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\Zadacha_2_1.AssemblyInfoInputs.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\Zadacha_2_1.AssemblyInfo.cs
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\Zadacha_2_1.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\bin\Debug\net6.0\Zadacha_2_1.exe
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\bin\Debug\net6.0\Zadacha_2_1.deps.json
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\bin\Debug\net6.0\Zadacha_2_1.runtimeconfig.json
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\bin\Debug\net6.0\Zadacha_2_1.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\bin\Debug\net6.0\Zadacha_2_1.pdb
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\Zadacha_2_1.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\refint\Zadacha_2_1.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\Zadacha_2_1.pdb
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\Zadacha_2_1.genruntimeconfig.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\C_HW_20.11.22\Zadacha_2_1\obj\Debug\net6.0\ref\Zadacha_2_1.dll
